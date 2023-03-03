@@ -32,9 +32,6 @@ After you add Rooms to your Venue and Slots on Event Days you can use our Custom
 
 ## Authors
 
-> One author per line, please
-> DELETE THIS PARAGRAPH BEFORE SUBMITTING
-Wilmer Alcivar - [LinkedIn](https://www.linkedin.com/in/wilmeralcivar/) - [GitHub](https://github.com/walcivar).
 Solution|Author(s)
 --------|---------
 Power Happening | [Wilmer Alcivar](https://github.com/walcivar) [LinkedIn](https://www.linkedin.com/in/wilmeralcivar/)
