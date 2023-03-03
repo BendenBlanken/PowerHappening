@@ -1,21 +1,29 @@
-# PowerHappening
+# Power Happening
 Power Happening! It's Happening! An event organizer Model-Driven Power App.
 
-hat is it?
+This is a community sample to inspire you how you can use Model-Driven Power Apps and Custom Pages for your business processes.
 
-Gif of the drag and drop thingie
+Use this solution to manage your next Power Platform event. Add and manage speakers, sessions, attendees and venues.
+After you add Rooms to your Venue and Slots on Event Days you can use our Custom Page Agenda Scheduler:
+
+Gif
 
 # Installation manual
 
-In this oslution we use
-Creator Kit
-Drag and Drop
-Then our solution
+To install this solution to your Dataverse enabled environment you also need the following:
+* Creator Kit
+* Drag and Drop
 
-For full details look at our project wiki
+Then you can install our solution.
+For a more detailed description on how to install the solution go to our [project wiki](https://github.com/BendenBlanken/PowerHappening/wiki/1.-Installation-Manual).
 
 # User manual
-For details about how to use the App go to wiki
+We are also working on documentation how to use our solution. You can find a [first version here](https://github.com/BendenBlanken/PowerHappening/wiki/2.-User-manual).
 
 # Issues or ideas
-If you have good ideas issues go create an issue
+If you are using this app for organizing your event ánd you have good ideas or find issues. Please go ahead and [create issues](https://github.com/BendenBlanken/PowerHappening/issues/) on our repository.
+
+#Authors
+This sample is created and maintained by:
+* Wilmer Alcivar - [LinkedIn](https://www.linkedin.com/in/wilmeralcivar/) - [GitHub](https://github.com/walcivar).
+* Ben den Blanken - [LinkedIn](https://www.linkedin.com/in/bendenblanken/) - [GitHub](https://github.com/BendenBlanken) - [Twitter](https://twitter.com/BenDenBlanken).
