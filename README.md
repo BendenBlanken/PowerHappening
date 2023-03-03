@@ -6,7 +6,7 @@ This is a community sample to inspire you how you can use Model-Driven Power App
 Use this solution to manage your next Power Platform event. Add and manage speakers, sessions, attendees and venues.
 After you add Rooms to your Venue and Slots on Event Days you can use our Custom Page Agenda Scheduler:
 
-![gif](https://github.com/BendenBlanken/PowerHappening/blob/main/assets/AgendaSchedulerDemo.gif?raw=true)
+![gif](assets/AgendaSchedulerDemo.gif)
 
 # Installation manual
 
