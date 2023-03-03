@@ -34,8 +34,8 @@ After you add Rooms to your Venue and Slots on Event Days you can use our Custom
 
 Solution|Author(s)
 --------|---------
-Power Happening | [Wilmer Alcivar](https://github.com/walcivar) [LinkedIn](https://www.linkedin.com/in/wilmeralcivar/)
-Power Happening | [Ben den Blanken](https://github.com/BendenBlanken) [LinkedIn](https://www.linkedin.com/in/bendenblanken/) [Twitter](https://twitter.com/BenDenBlanken)
+Power Happening | [Wilmer Alcivar](https://github.com/walcivar) - [LinkedIn](https://www.linkedin.com/in/wilmeralcivar/)
+Power Happening | [Ben den Blanken](https://github.com/BendenBlanken) - [LinkedIn](https://www.linkedin.com/in/bendenblanken/) - [Twitter](https://twitter.com/BenDenBlanken)
 
 ## Version history
 
